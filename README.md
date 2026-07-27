@@ -120,6 +120,7 @@ If you want to contribute, please read [this](CONTRIBUTING.md).
   * [Web programming](#web-programming)
 - [Registries](#registries)
 - [Resources](#resources)
+- [Translations](#translations)
 - [License](#license)
 
 <!-- tocstop -->
@@ -2449,6 +2450,31 @@ A registry allows you to publish your Rust libraries as crate packages, to share
 * [RustCamp 2015 Talks](https://www.youtube.com/playlist?list=PLE7tQUdRKcybdIw61JpCoo89i4pWU5f_t) - Recorded talks from RustCamp 2015
 * [RustViz](https://github.com/rustviz/rustviz) - generates visualizations from simple Rust programs to assist users in better understanding the Rust Lifetime and Borrowing mechanism.
 * [Watch Jon Gjengset Implement BitTorrent in Rust](https://www.youtube.com/watch?v=jf_ddGnum_4) - Implementing (part of) a BitTorrent client in Rust
+
+## Translations
+
+* [localizethedocs/asterinas-book-l10n](https://github.com/localizethedocs/asterinas-book-l10n) - Localization of The Asterinas Book
+* [localizethedocs/cargo-book-l10n](https://github.com/localizethedocs/cargo-book-l10n) - Localization of The Cargo Book
+* [localizethedocs/comprehensive-rust-l10n](https://github.com/localizethedocs/comprehensive-rust-l10n) - Localization of Comprehensive Rust
+* [localizethedocs/helix-docs-l10n](https://github.com/localizethedocs/helix-docs-l10n) - Localization of The Helix Documentation
+* [localizethedocs/lemmy-docs-l10n](https://github.com/localizethedocs/lemmy-docs-l10n) - Localization of The Lemmy Documentation
+* [localizethedocs/leptos-book-l10n](https://github.com/localizethedocs/leptos-book-l10n) - Localization of The Leptos Book
+* [localizethedocs/maturin-guide-l10n](https://github.com/localizethedocs/maturin-guide-l10n) - Localization of The Maturin User Guide
+* [localizethedocs/mdbook-docs-l10n](https://github.com/localizethedocs/mdbook-docs-l10n) - Localization of The mdBook Documentation
+* [localizethedocs/prql-book-l10n](https://github.com/localizethedocs/prql-book-l10n) - Localization of The PRQL Language Book
+* [localizethedocs/pyo3-guide-l10n](https://github.com/localizethedocs/pyo3-guide-l10n) - Localization of The PyO3 User Guide
+* [localizethedocs/redoxos-book-l10n](https://github.com/localizethedocs/redoxos-book-l10n) - Localization of The Redox OS Book
+* [localizethedocs/rust-book-l10n](https://github.com/localizethedocs/rust-book-l10n) - Localization of The Rust Book
+* [localizethedocs/rust-edition-guide-l10n](https://github.com/localizethedocs/rust-edition-guide-l10n) - Localization of The Rust Edition Guide
+* [localizethedocs/rust-embedded-book-l10n](https://github.com/localizethedocs/rust-embedded-book-l10n) - Localization of The Embedded Rust Book
+* [localizethedocs/rust-nomicon-l10n](https://github.com/localizethedocs/rust-nomicon-l10n) - Localization of The Rustonomicon
+* [localizethedocs/rust-patterns-l10n](https://github.com/localizethedocs/rust-patterns-l10n) - Localization of The Rust Design Patterns
+* [localizethedocs/rust-rfcs-l10n](https://github.com/localizethedocs/rust-rfcs-l10n) - Localization of The Rust RFCs Book
+* [localizethedocs/rust-style-guide-l10n](https://github.com/localizethedocs/rust-style-guide-l10n) - Localization of The Rust Style Guide
+* [localizethedocs/rustdoc-book-l10n](https://github.com/localizethedocs/rustdoc-book-l10n) - Localization of The Rustdoc Book
+* [localizethedocs/rustup-book-l10n](https://github.com/localizethedocs/rustup-book-l10n) - Localization of The Rustup Book
+* [localizethedocs/sphinxcontrib-rust-l10n](https://github.com/localizethedocs/sphinxcontrib-rust-l10n) - Localization of The Sphinxcontrib Rust Documentation
+* [localizethedocs/zed-docs-l10n](https://github.com/localizethedocs/zed-docs-l10n) - Localization of The Zed Documentation
 
 ## License
 
